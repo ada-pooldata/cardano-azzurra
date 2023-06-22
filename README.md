@@ -8,7 +8,7 @@ https://www.cardanoazzurra.it
 Per poter entrare a far parte del gruppo di SPO di Cardano Azzurra basta essere italiani ed operatori di una pool. Non e' necessario che la pool sia in Italia, ma solo che l'operatore sia italiano.
 
 ### Come richiedere l'ingresso in Cardano Azzurra
-Per richiedere l'attivazione della pool nell'elenco di Cardano Azzurra e' necessario creare una pull request a questo repository aggiungo l'id e ticker della propria pool al file azzurra.json
+Per richiedere l'attivazione della pool nell'elenco di Cardano Azzurra e' necessario creare una pull request a questo repository aggiungendo l'id e ticker della propria pool al file azzurra.json
 
 Esempio:
 ```yaml
