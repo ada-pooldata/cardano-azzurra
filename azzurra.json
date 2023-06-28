@@ -16,7 +16,5 @@
   {"ticker":"ARMN",  "id":"2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378"}, 
   {"ticker":"GOLGI", "id":"effc78f36adf09718712f78a4ae84f02e6d7cd79e3c9492fcaa2a7f5"}, 
   {"ticker":"STKCH", "id":"7a173fdf2ceee8a24ddc173be6810cf3259a80fe02a8d10923921d17"}, 
-  {"ticker":"T2H",   "id":"15b80fb09b9541a2786a7dda7c516178f9acef18ef9c98d7146f5d2e"}, 
-  {"ticker":"MOUSE", "id":"b94ba8b903956a63685d13e716ca4f0c0f355a7d16d00f6e4bade7b5"}, 
-  {"ticker":"NWW",   "id":"7602450c48c691331f79bee98e355498c5c6fe83077dba8d9545d2d7"} 
+  {"ticker":"T2H",   "id":"15b80fb09b9541a2786a7dda7c516178f9acef18ef9c98d7146f5d2e"}
 ]}  
