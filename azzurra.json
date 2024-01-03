@@ -16,5 +16,6 @@
   {"ticker":"ARMN",  "id":"pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69"}, 
   {"ticker":"GOLGI", "id":"pool1al783um2muyhrpcj779y46z0qtnd0nteu0y5jt7252nl26dt0h0"}, 
   {"ticker":"STKCH", "id":"pool10gtnlhevam52ynwuzua7dqgv7vje4q87q25dzzfrjgw3wwjk2xw"}, 
-  {"ticker":"T2H",   "id":"pool1zkuqlvymj4q6y7r20hd8c5tp0ru6emcca7wf34c5dawjukusvzr"}
+  {"ticker":"T2H",   "id":"pool1zkuqlvymj4q6y7r20hd8c5tp0ru6emcca7wf34c5dawjukusvzr"},
+  {"ticker":"CLINK", "id":"pool1gxvkc0576e75065p5k0csvwme9y2qrefd5ga66nx0z65xxjt8jk"}
 ]}  
