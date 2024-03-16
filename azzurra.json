@@ -1,5 +1,4 @@
 {"pools":[
-  {"ticker":"ADATA", "id":"pool1adhpjj009c0jekumqswj5jux6nvrw7v2k0wlu57vfjh7gd5wyh9"},
   {"ticker":"HWL",   "id":"pool1mchqp2fr7mwsz6jrpplxpr0ekmwafev8arl57wwxfck5x0dwv60"},
   {"ticker":"SQRL",  "id":"pool1ex3e0w92rktrqvyen48dl58cp8efp7vfn3ealgdd8fkhqqychgd"}, 
   {"ticker":"RIOT",  "id":"pool1pk7cjkcdsawxf25dwml0ely8vhjx7wp7nqans3jwatanceyqae0"}, 
