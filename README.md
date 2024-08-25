@@ -1,3 +1,5 @@
+## This community is opened to only italian speaking or italian based members
+
 ## Cardano Azzurra
 
 La prima comunita' italiana di Cardano Stake Pool Operators | The first Italian community of Cardano Stake Pool Operators
@@ -14,7 +16,7 @@ Esempio:
 ```yaml
 {"pools":[
     {"ticker":"ADATA",   "id":"pool1adhpjj009c0jekumqswj5jux6nvrw7v2k0wlu57vfjh7gd5wyh9"},
-    {"ticker":"NEWPOOL", "id":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"},   
+    {"ticker":"NEWPOOL", "id":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}  
 ]}
 ```
 
